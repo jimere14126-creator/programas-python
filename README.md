@@ -59,3 +59,10 @@ Jimena Estefania
 -p041-aceptar-estudiante-v2.py
 -p042-precio-entrada-cine.py
 -p043-calculadora-anio-bisiesto.py 
+## Actividad 8
+-p052-tabla-conversion.py
+-p053-conjetura-collatz.py
+-p054-tabla-multiplicar-while-v1.py
+-p055-tabla-multiplicar-while-v2.py
+-p056-contador-vocales.py
+-p057-interes-simple.py
